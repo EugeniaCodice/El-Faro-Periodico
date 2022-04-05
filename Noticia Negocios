@@ -1,0 +1,74 @@
+<html>
+    <head>
+        <title>El Faro - Periodico</title>
+    </head>
+    <body style="background-color:#57cece;">
+    </body>
+    <body>
+        <h1>El Faro</h1>
+        <img src = "https://latienda.elfaro.net/wp-content/uploads/2017/08/a014f51f70995d994dab5117ace06b7646c5db66_original-300x126.png">
+        <nav>
+            <a class="active" href="el_faro_periodico.html">INICIO</a></br>
+             
+            <hr>
+            <a href="noticia_deporte.html">DEPORTES</a></br>
+            <hr>
+            <a href="noticia_negocio.html">NEGOCIOS</a></br>
+            <hr>
+        </nav>
+
+            <footer>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/VPS6eAGy3EQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <hr>
+            <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4hPH4j21lYd2fAYrxK4gMN?utm_source=generator" width="450" height="150" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+        </footer>
+            
+        <h2>Negocios</h2>
+
+        <h3>OHLA suma 40 años desarrollando infraestructuras en Chile</h3>
+
+        <h5>OHLA suma más de 40 años desarrollando infraestructuras en Latinoamérica. En lo que respecta a los países de la Alianza del Pacífico, considerados estratégicos, la compañía está presente en México desde 1979, mientras que en Chile inició su actividad en 1981, en Perú, lo hacía en 1999 y finalmente en Colombia en 2008.</h5>
+        <h5>En el caso de Chile, este año cumple 40 años desarrollando infraestructuras y se posiciona como un referente en la realización de obras civiles e hidráulicas, infraestructura vial y ferroviaria y edificación singular, siendo también un actor relevante en lo que respecta a iniciativas de colaboración público-privada.</h5>
+        <h5>Su primer proyecto en el país fue la construcción, en 1981, del Canal del Rio Maule para el proyecto Colbún. A este se sumaron edificios corporativos en Santiago, el Congreso Nacional en Valparaíso o la Embajada de Estados Unidos, entre otros.</h5>
+        <h5>En el caso de carreteras y autopistas ha llevado a cabo importantes proyectos como un tramo de la Ruta-5, la Ruta 60 CH. A estas infraestructuras hay que añadir las estaciones y tramos del Metro de Valparaíso, líneas del Metro de Santiago y obras ferroviarias. En el ámbito hospitalario, la construcción de centros sanitarios de alta complejidad, donde destaca entre otros, el Hospital Militar en Santiago con un total de ocho hospitales construidos (418.406 m2) y 2.865 camas. Destacan también las obras hidráulicas como la construcción de la Planta Desaladora de Antofagasta, el embalse Chacrillas en San Felipe, tranque Piquenes y la ejecución de la octava etapa de peraltamiento del Tranque de Relaves de Talabre para Codelco.</h5>
+        <h5>En el porfolio de la compañía también se encuentran la construcción del Laboratorio de Criminalística en Santiago y un edificio recientemente adjudicado en Viña del Mar; la ejecución del Hospital Provincial de Curicó; la ampliación de las terceras pistas de la Ruta 78; la extensión de la línea 3 del Metro de Santiago, las obras de construcción de la autopista Américo Vespucio Oriente (AVO I) y obras de saneamiento en la mina El Teniente de Codelco.</h5>
+        <img src="https://s03.s3c.es/imag/_v0/770x420/d/c/f/ohla-laboratorio-criminalistica-central-chile.jpg">
+        <h4>Laboratorio de Criminalística en Santiago de Chile. Imagen: OHLA.</h4>
+        <h5>En lo que respecta a las concesiones, desarrolla los servicios ininterrumpidos en el Centro de Justicia de Santiago, compuesto por nueve edificios destinados al Poder Judicial, Defensoría y Fiscalía con una dotación de alrededor de 380 profesionales.
+
+            La compañía también acomete en Chile actuaciones en el área de Industrial y Servicios.</h5>
+            <h4>Compromiso con la comunidad</h4>
+        <h5>La apuesta de OHLA por la creación de valor en condiciones de sostenibilidad económica, social y ambiental se concreta en el impulso de políticas de inclusión social, equidad de género, ambientales y acciones de voluntariado social.
+
+            Entre las diferentes actuaciones desarrolladas se encuentra la Iniciativa de Paridad de Género, proyecto público-privado, impulsado por el Banco Interamericano de Desarrollo, el Foro Económico Mundial y el Ministerio de la Mujer y la Equidad de Género de Chile, a la que se suma otra similar, promovida por la Cámara Oficial Española de Comercio de Chile. Todo ello se completa con destacadas acciones de voluntariado en favor de la comunidad chilena.</h5>
+        <hr>
+
+            <h3>La crepería familiar que sorteó la pandemia con innovación y perseverancia</h3>
+
+            <h5>Parecía que la pandemia cerraría las puertas, pero, en lugar de rendirse, postularon a un fondo Sercotec y se pusieron manos a la obra para dar continuidad a su negocio con una propuesta creativa y variada en el centro gastronómico de Huechuraba.</h5>
+            <h5>¿Dulce o salado? En realidad, no importa. Un matrimonio chileno-colombiano instaló una crepería familiar en el centro gastronómico más importante de la zona norte de Santiago. "Entre crepes" es el nombre de la cafetería, heladería y crepería ubicada en Av. Pedro Fontova, en Huechuraba, donde la variedad es tan amplia que no resulta fácil elegir entre un crepe gratinado o uno de nutella con berries.</h5>
+            <h5>¡Pero eso no es todo! En este local, ideal para despejarse un rato junto a la familia, incluso, es posible disfrutar de un desayuno americano, argentino o naturista; mientras que, los más golosos, quedan totalmente embobados con el waffle chorrillano o el waffle de mechada BBQ.</h5>
+            <h5>¿Cómo lo hicieron? Además de una propuesta gastronómica variada, Arnold y Vanessa, los fundadores de "Entre crepes", eligieron una colorida decoración que invita a quedarse para relajarse y compartir con la familia, con todas las medidas de seguridad y el distanciamiento entre mesas que corresponde.</h5>
+            <h4>Junto con eso, se han apoyado en la asesoría gratuita del Centro de Negocios Sercotec Independencia, que opera la Universidad Central, para buscar nuevas fórmulas que les permitan hacer crecer su negocio, aún en tiempos difíciles.</h4><h5>"Este negocio familiar se vio complicado, primero por el estallido social; y, luego, por la pandemia. Pero, ganaron un fondo 'Reactívate', gracias al cual han logrado mantener la operación y dar trabajo al menos a ocho personas", explica el coordinador del Centro de Negocios Sercotec Independencia, Luis González Jofré.</h5>
+            <h5>Con un personal compuesto por mujeres, en su mayoría, "Entre crepes" ha logrado ser reconocido en el norte de la capital tanto por el toque femenino en cada detalle, como por su amplia variedad de ingredientes, entre los que se incluyen carne, pollo y vegetales, para los fanáticos de lo salado; y nutella, dulce de leche y frutas para los "dulceros".</h5>
+            <h5>"El Centro de Negocios Sercotec Independencia nos ha acompañado en la etapa más compleja de nuestro emprendimiento, desde el inicio de la pandemia, cuando nos capacitamos e informamos sobre los beneficios y fondos disponibles. Su apoyo ha sido fundamental", afirma la emprendedora Vanessa Gallego.</h5>
+            <h5>"Entre Crepes" está ubicado en Av. Pedro Fontova 7280, Huechuraba; pero sus exquisitos platos y postres también pueden pedirse con despacho a domicilio en www.entrecrepes.cl, o a través de aplicaciones como Rappi y Uber Eats.</h5>
+
+        <hr>
+            <h3>Clima para los negocios en Latinoamérica sigue en nivel desfavorable</h3>
+
+            <h5>El ambiente para hacer negocios en Latinoamérica registró una leve "mejoría", pero se mantuvo en un nivel "desfavorable" en los últimos tres meses por temor a la segunda ola de la covid-19, según informó el centro brasileño de estudios económicos Fundación Getulio Vargas (FGV).</h5>
+            <h5>El Indicador de Clima Económico (ICE) en Latinoamérica, medido cada tres meses, avanzó desde los 60,7 puntos en el cuarto trimestre de 2020 para los 70,5 del período trimestral siguiente, que ya incluye los dos primeros meses de 2021.</h5>
+            <h5>"Por primera vez después del impacto de la pandemia de la covid-19, hubo alguna mejoría en la percepción con relación a la situación corriente, que continúa difícil en la mayoría de los países, y con relación a las expectativas el resultado es muy heterogéneo", apuntó el estudio.</h5>
+            <h5>El ICE se obtiene con base en dos indicadores: el de la Situación Actual (ISA) y el de Expectativas (IE), que mide la proyección de los economistas de diversos países para los próximos seis meses. En los tres referentes se considera clima "favorable" cuando se está por encima de los cien puntos.</h5>
+            <h5>En el periodo actual, el ISA subió trece puntos en la comparación con el trimestre anterior, pasando para las 19,4 unidades.El IE, por su parte, permaneció prácticamente estable al pasar de 142,8 para 143,6 puntos.</h5>
+            <h5>"El resultado general muestra que los especialistas continúan evaluando la situación actual como bastante desfavorable, pero están optimistas con la perspectiva de mejoría en los próximos meses", ante el "inicio de los programas de inmunización contra covid-19 en el mundo" y la región, resaltó.</h5>
+            <h4>Mejora</h4>
+            <h5>El clima económico para Latinoamérica mejoró en la mitad de los diez países analizados. En Paraguay, el ICE avanzó 37 puntos y con 122,2 es el único país que se situó en el nivel "favorable"; en Chile subió 26,7 unidades, hasta las 95,8 y próximo de ese estándar, y en México, que ocupó la cuarta posición, escaló 19,7 (69,7).Brasil, la mayor economía latinoamericana y tercero en el escalafón, tuvo un leve repunte de 5,1 puntos y totaliza 72,3 unidades, y Argentina, con un avance de 6,2 puntos, ocupa la séptima posición con 65,2.</h5>
+            <h5>En sentido adverso, las mayores pérdidas fueron para Bolivia, Colombia, Ecuador, Perú y Uruguay, todos con un retroceso menor de diez puntos. El descenso más acentuado fue para el ICE peruano con 9,3 unidades menos y que cayó a las 61.</h5>
+            <h5>Los analistas consultados para el informe indicaron que la previsión de crecimiento para Latinoamérica en 2021 será del 3,7% del PIB, con los mayores avances para Perú (8,4%), Chile (4,9%) y Argentina (4,5%).El PIB de Brasil y México, las principales economías de la región, deberán subir un 3,% y un 3,3%, respectivamente.</h5>
+            <h4>Factores</h4>
+            <h5>Como factores positivos que fueron tenidos en cuentas aparecen la mejoría de las condiciones macroeconómicas internacionales (para el 52,4% de los entrevistados), la llegada más rápido de la vacuna anticovid (46,6%) y la elección del demócrata Joe Biden como presidente en Estados Unidos (43, 4%).</h5>
+            <h5>En tanto, los aspectos negativos considerados fueron la segunda ola de la covid-19 (para el 82,5% de los analistas), el empeoramiento del ambiente político (60,2%) y la demora en la vacunación contra la pandemia (55,7%).</h5>
+             <ul>
+    </body>
