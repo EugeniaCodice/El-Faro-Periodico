@@ -1,0 +1,64 @@
+<html>
+    <head>
+        <title>El Faro - Periodico</title>
+    </head>
+    <body style="background-color:#9ee18d;">
+    </body>
+    <body>
+        <h1>El Faro</h1>
+        <img src = "https://latienda.elfaro.net/wp-content/uploads/2017/08/a014f51f70995d994dab5117ace06b7646c5db66_original-300x126.png">
+        <nav>
+            <a class="active" href="el_faro_periodico.html">INICIO</a></br>
+             
+            <hr>
+            <a href="noticia_deporte.html">DEPORTES</a></br>
+            <hr>
+            <a href="noticia_negocio.html">NEGOCIOS</a></br>
+            <hr>
+        </nav>
+
+            <footer>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/0eVdOgFfiAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <hr>
+            <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3UUtewTLgASbX6afOBHAeQ?utm_source=generator" width="450" height="150" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+        </footer>
+           
+           
+        <h2>Deportes</h2>
+        <h3>Regresa Sebastian Vettel: Piloto alemán disputará el GP de Australia tras recuperarse del Covid-19</h3>
+
+        <h5>Sebastian Vettel (Aston Martin), que se perdió las dos primeras citas de la temporada 2022 (Baréin, Arabia Saudita) tras haber dado positivo al Covid-19, empezará el curso en el tercer Gran Premio del calendario, el de Australia (8-10 de abril), anunció el jueves su escudería.</h5>
+        <h5>"Tenemos el placer de confirmar que Sebastian Vettel está ahora apto para correr y que se alineará junto a Lance Stroll en Melbourne, para su inicio de temporada 2022 en la Fórmula 1 en el Gran Premio de Australia", anunció Aston Martin en Twitter.</h5>
+        <h5>El El piloto alemán y cuatro veces campeón del mundo de la disciplina fue reemplazado por su compatriota Nico Hülkenberg en Baréin y Arabia Saudita.</h5>
+        <h5>Hülkenberg fue decimoséptimo en la carrera bareiní y duodécimo en la saudita.</h5>
+        <hr>
+
+
+
+        <h3>El balón oficial del Mundial de Fútbol fue revelado en Catar: "Al Rihla"</h3>
+        
+        <h5>El balón oficial de la Copa Mundial de Qatar 2022 se presentó este jueces durante una conferencia de prensa posterior al 72º Congreso de la FIFA.</h5>
+        <h5>Fabricado por Adidas, el balón se llama "Al Rihla", que significa "el viaje" en árabe, y su diseño está inspirado en la cultura, la arquitectura, los barcos icónicos y la bandera de Qatar. </h5>
+
+        <hr>
+
+
+        <h3>No hay Mundial: Chile cayó ante Uruguay y cerró las Clasificatorias en la séptima posición</h3>
+
+        <h5>La Selección Chilena cayó 2-0 este martes ante su similar de Uruguay, en duelo que se disputó en el estadio San Carlos de Apoquindo, y se despidió de la posibilidad de acceder al repechaje por un cupo al Mundial de Catar 2022.</h5>
+        <h5>La apertura de la cuenta la anotó Luis Suárez cuando corrían 79 minutos, mediante una espectacular chilenita, mientras que el 2-0 lo puso Federico Valverde a los 90'.</h5>
+        <h5>Debía ganar a los charrúas y esperar dos resultados: que Perú no venciera en Lima ante Paraguay, y que Colombia no triunfara ante Venezuela como visitante... ninguno se dio.</h5>
+        <h5>Chile perdió y quedó séptimo con 19 puntos, Perú ganó 2-0 a Paraguay y abrochó pasajes para el repechaje con 24 unidades, y Colombia ganó ante la Vinotinto, pero igualmente no le alcanzó al cosechar 23 positivos.</h5>
+        <h3>El resto de la fecha</h3>
+
+        <li>Venezuela 0-1 Colombia</li>
+        <li>Perú 2-0 Paraguay</li>
+        <li>Bolivia 0-4 Brasil</li>
+        <li>Ecuador 1-1 Argentina</li>
+
+        <h3>Los clasificados</h3>
+        <h5>De esta forma, los clasificados al Mundial por la Conmebol son: Brasil, Argentina, Uruguay y Ecuador, mientras que Perú aún debe jugar su opción en el repechaje.</h5>
+        <img src="https://images2-mega.cdn.mdstrm.com/meganoticias/2022/03/29/372261_5_6243b42d49c38.png">
+
+        <ul>
+    </body>
